@@ -10,7 +10,6 @@
 </ul>
 
 <h2>ALUR PEMESANAN MAKANAN</h2>
-<br />
 <h3></h3>
 <ol>
   <li>masuk ke halaman utama</li>
