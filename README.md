@@ -8,3 +8,20 @@
   <li>Checkout</li>
   <li>History</li>
 </ul>
+
+<h2>ALUR PEMESANAN MAKANAN</h2>
+<br />
+<h3></h3>
+<ol>
+  <li>masuk ke halaman utama</li>
+  <li>pilih menu</li>
+  <li>klik keranjang</li>
+  <li>login jika belum</li>
+  <li>isi alamat dan no hp</li>
+  <li>pesan</li>
+  <li>pilih metode pembayaran tunai atau ewallet</li>
+  <li>tunggu driver untuk mengantar makanan</li>
+  <li>setelah driver bayar tunai jika megunakan metode tunai</li>
+  <li>selesai</li>
+</ol>
+
