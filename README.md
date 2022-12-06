@@ -51,3 +51,4 @@
 </ol>
 <h2>RELASI ANTAR TABLE</h2>
 
+![output-onlinepngtools](https://user-images.githubusercontent.com/91710863/205804294-f4e8b268-6416-4e87-ac39-214363d19a88.png)
