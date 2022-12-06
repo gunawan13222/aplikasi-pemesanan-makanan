@@ -1,4 +1,4 @@
-##halaman dan fitur yg di buat
+<h2>halaman dan fitur yg di buat</h2>
 <ul>
   <li>Login / Register</li>
   <li>Home</li>
