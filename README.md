@@ -23,5 +23,31 @@
   <li>setelah driver bayar tunai jika megunakan metode tunai</li>
   <li>selesai</li>
 </ol>
+<h3>Toko</h3>
+<ol>
+  <li>buat akun</li>
+  <ul>
+    <li>Regitrasi</li>
+    <li>login</li>
+    <li>password</li>
+  </ul>
+  <li>login</li>
+  <li>isi profil</li>
+  <ul>
+    <li>nama toko</li>
+    <li>foto profil</li>
+    <li>alamat</li>
+    <li>no hp</li>
+  </ul>
+  <li>Tambah produk</li>
+  <ul>
+    <li>nama produk</li>
+    <li>foto produk</li>
+    <li>harga produk</li>
+    <li>deskripsi produk</li>
+    <li>save</li>
+  </ul>
+  <li>selesai</li>
+</ol>
 <h2>RELASI ANTAR TABLE</h2>
 
