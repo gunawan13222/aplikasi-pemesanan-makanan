@@ -1,4 +1,4 @@
-<h2>halaman dan fitur yg di buat</h2>
+<h2>HALAMAN DAN FITUR YG DI BUAT</h2>
 <ul>
   <li>Login / Register</li>
   <li>Home</li>
@@ -23,4 +23,6 @@
   <li>setelah driver bayar tunai jika megunakan metode tunai</li>
   <li>selesai</li>
 </ol>
+<h2>RELASI ANTAR TABLE</h2>
+![Group 5 (2)](https://user-images.githubusercontent.com/91710863/205797508-6290330c-d82f-4379-ba27-8412233b86f2.png)
 
