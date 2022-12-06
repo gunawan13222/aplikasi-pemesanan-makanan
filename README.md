@@ -24,5 +24,5 @@
   <li>selesai</li>
 </ol>
 <h2>RELASI ANTAR TABLE</h2>
-![Group 5 (2)](https://user-images.githubusercontent.com/91710863/205797508-6290330c-d82f-4379-ba27-8412233b86f2.png)
+https://user-images.githubusercontent.com/91710863/205797508-6290330c-d82f-4379-ba27-8412233b86f2.png
 
