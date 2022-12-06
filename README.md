@@ -10,7 +10,7 @@
 </ul>
 
 <h2>ALUR PEMESANAN MAKANAN</h2>
-<h3></h3>
+<h3>User</h3>
 <ol>
   <li>masuk ke halaman utama</li>
   <li>pilih menu</li>
